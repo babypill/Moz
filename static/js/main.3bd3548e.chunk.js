@@ -14926,7 +14926,7 @@
                     {
                         label: "Telegram",
                         icon: "ReferralIcon",
-                        href: "",
+                        href: "https://t.me/jinbeiinuswap",
                     },
                     {
                         label: "Contract",
